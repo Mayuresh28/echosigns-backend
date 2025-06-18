@@ -1,0 +1,12 @@
+Flask==2.3.3
+Flask-SocketIO==5.3.6
+eventlet==0.33.3
+gunicorn==23.0.0
+mediapipe==0.10.7
+numpy==1.26.1
+opencv-python==4.8.1.78
+tensorflow==2.15.0
+email-validator==2.1.0.post1
+psycopg2-binary==2.9.9
+python-socketio==5.9.0
+python-engineio==4.7.1
